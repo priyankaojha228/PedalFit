@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1004700217334",
+    "firebase_url": "https://pedalfit-84c86-default-rtdb.firebaseio.com",
+    "project_id": "pedalfit-84c86",
+    "storage_bucket": "pedalfit-84c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004700217334:android:0a845a379a6014c5eb61d7",
+        "android_client_info": {
+          "package_name": "com.example.pedalfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004700217334-b743c6vdgl059h8nud6he7c2bfg5sg54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pedalfit",
+            "certificate_hash": "9cee388d2db725e281d05a6a884fa4a2386e51da"
+          }
+        },
+        {
+          "client_id": "1004700217334-cmqvdn03d1ni26ebdem4nqhbtea7fa5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI_FyZDQY15rcyDCaj19jn_4_bxj0WvOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004700217334-cmqvdn03d1ni26ebdem4nqhbtea7fa5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
